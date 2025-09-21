@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Peta Persebaran Sekolah Kota Madiun</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="header">
+    <h1>🏫 Peta Persebaran Sekolah</h1>
+    <p>Kota Madiun, Jawa Timur</p>
+  </div>
+
+  <div class="container">
+    <div id="map"></div>
+    
+    <div class="sidebar">
+      <!-- Search box -->
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="🔍 Cari sekolah...">
+		<div id="search-result"></div>
+      </div>
+
+      <div class="stats-card">
+        <h3>📊 Statistik Sekolah</h3>
+        <div class="stat-item">
+          <span>Total Sekolah:</span>
+          <strong id="total-sekolah">0</strong>
+        </div>
+        <div class="stat-item">
+          <span>Total Guru:</span>
+          <strong id="total-guru">0</strong>
+        </div>
+        <div class="stat-item">
+          <span>Total Siswa:</span>
+          <strong id="total-siswa">0</strong>
+        </div>
+      </div>
+
+      <div class="legend">
+        <h3>🎯 Legenda</h3>
+        <div class="legend-item"><div class="legend-color paud"></div><span>PAUD</span></div>
+        <div class="legend-item"><div class="legend-color kb"></div><span>KB</span></div>
+        <div class="legend-item"><div class="legend-color tk"></div><span>TK</span></div>
+        <div class="legend-item"><div class="legend-color tpa"></div><span>TPA</span></div>
+        <div class="legend-item"><div class="legend-color sps"></div><span>SPS</span></div>
+        <div class="legend-item"><div class="legend-color pkbm"></div><span>PKBM</span></div>
+        <div class="legend-item"><div class="legend-color sd"></div><span>SD</span></div>
+        <div class="legend-item"><div class="legend-color smp"></div><span>SMP</span></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

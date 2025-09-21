@@ -1,0 +1,222 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.header {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header p {
+  margin: 10px 0 0 0;
+  color: #7f8c8d;
+  font-size: 1.1rem;
+}
+
+.container {
+  display: flex;
+  height: calc(100vh - 120px);
+  gap: 20px;
+  padding: 20px;
+}
+
+#map {
+  flex: 1;
+  height: 100%;
+  border-radius: 15px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  border: 3px solid rgba(255, 255, 255, 0.2);
+}
+
+.sidebar {
+  width: 350px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+}
+
+.search-box {
+  margin-bottom: 20px;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 10px 12px;
+  border: 2px solid #3498db;
+  border-radius: 8px;
+  font-size: 1rem;
+  outline: none;
+  transition: 0.3s;
+}
+
+.search-box input:focus {
+  border-color: #2ecc71;
+  box-shadow: 0 0 6px rgba(46, 204, 113, 0.5);
+}
+
+#search-result {
+  margin-top: 5px;
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.search-item {
+  display: block;
+  width: 100%;
+  padding: 6px 10px;
+  margin: 2px 0;
+  text-align: left;
+  border: none;
+  background: #f8f8f8;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.search-item:hover {
+  background: #3498db;
+  color: white;
+}
+
+
+.stats-card {
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);
+}
+
+.stats-card h3 {
+  margin: 0 0 15px 0;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.stat-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.stat-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.legend {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.legend h3 {
+  margin: 0 0 15px 0;
+  color: #2c3e50;
+  font-size: 1.2rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  padding: 8px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.legend-item:hover {
+  background-color: #f8f9fa;
+}
+
+.legend-color {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Warna jenjang */
+.tk { background-color: #9b59b6; }
+.kb { background-color: #8e44ad; }
+.paud { background-color: #6c5ce7; }
+.sd { background-color: #e74c3c; }
+.smp { background-color: #3498db; }
+.pkbm { background-color: #1abc9c; }
+.sps { background-color: #f39c12; }
+.tpa { background-color: #2ecc71; }
+
+/* Label nama sekolah di atas marker */
+.school-label {
+  background-color: rgba(52, 73, 94, 0.4);
+  color: white;
+  font-weight: 500;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.popup-content {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-width: 250px;
+}
+
+.popup-content h4 {
+  margin: 0 0 10px 0;
+  color: #2c3e50;
+  font-size: 1.1rem;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+}
+
+.popup-content p {
+  margin: 5px 0;
+  color: #34495e;
+}
+
+.popup-content strong {
+  color: #2980b9;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    height: auto;
+  }
+  
+  .sidebar {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  #map {
+    height: 400px;
+  }
+}
