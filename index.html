@@ -1,50 +1,82 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Peta Persebaran Sekolah Kota Madiun</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-  <link rel="stylesheet" href="style.css"/>
+
+  <!-- Leaflet & plugins -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+  <!-- Custom styles -->
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="header">
-    <h1>🏫 Peta Persebaran Sekolah</h1>
-    <p>Kota Madiun, Jawa Timur</p>
+  <div class="loading" id="loading">
+    <div class="spinner"></div>
+    <div>Memuat data sekolah...</div>
+  </div>
+
+  <header>
+    <h2><i class="fas fa-map-marked-alt"></i> Peta Persebaran Sekolah Kota Madiun</h2>
   </header>
 
-  <main class="container">
-    <div id="map"></div>
-    
-    <aside class="sidebar">
-      <!-- Search box -->
-      <div class="search-box">
-        <input type="text" id="search-input" placeholder="🔍 Cari sekolah...">
+  <div class="main-container">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <section class="search-section">
+        <input type="text" id="search-input" placeholder="🔍 Cari sekolah..." />
         <div id="search-result"></div>
-      </div>
+      </section>
 
-      <div class="stats-card">
-        <h3>📊 Statistik Sekolah</h3>
-        <div class="stat-item"><span>Total Sekolah:</span><strong id="total-sekolah">0</strong></div>
-        <div class="stat-item"><span>Total Guru:</span><strong id="total-guru">0</strong></div>
-        <div class="stat-item"><span>Total Siswa:</span><strong id="total-siswa">0</strong></div>
-      </div>
+      <section class="filter-section">
+        <div class="filter-title">Filter Jenjang</div>
+        <div class="filter-group" id="filter-group"></div>
+        <button id="clear-filters">
+          <i class="fas fa-times"></i> Hapus Semua Filter
+        </button>
+      </section>
 
-      <div class="legend">
-        <h3>🎯 Legenda</h3>
-        <div class="legend-item"><div class="legend-color paud"></div><span>PAUD</span></div>
-        <div class="legend-item"><div class="legend-color kb"></div><span>KB</span></div>
-        <div class="legend-item"><div class="legend-color tk"></div><span>TK</span></div>
-        <div class="legend-item"><div class="legend-color tpa"></div><span>TPA</span></div>
-        <div class="legend-item"><div class="legend-color sps"></div><span>SPS</span></div>
-        <div class="legend-item"><div class="legend-color pkbm"></div><span>PKBM</span></div>
-        <div class="legend-item"><div class="legend-color sd"></div><span>SD</span></div>
-        <div class="legend-item"><div class="legend-color smp"></div><span>SMP</span></div>
-      </div>
+      <section class="stats-section">
+        <div class="filter-title">Statistik</div>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-value" id="total-sekolah">0</div>
+            <div class="stat-label"><i class="fas fa-school"></i> Sekolah</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="total-guru">0</div>
+            <div class="stat-label"><i class="fas fa-chalkboard-teacher"></i> Guru</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="total-siswa">0</div>
+            <div class="stat-label"><i class="fas fa-users"></i> Siswa</div>
+          </div>
+        </div>
+      </section>
     </aside>
-  </main>
 
+    <!-- Map -->
+    <main class="map-container">
+      <button class="sidebar-toggle" id="sidebar-toggle">
+        <i class="fas fa-bars"></i>
+      </button>
+      <div id="map"></div>
+      <div class="legend">
+        <div class="legend-title">Jenjang Pendidikan</div>
+        <div id="legend-items"></div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Leaflet & plugins -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+  <!-- Custom script -->
   <script src="script.js"></script>
 </body>
 </html>
