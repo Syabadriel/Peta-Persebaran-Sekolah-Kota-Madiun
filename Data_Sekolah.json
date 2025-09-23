@@ -1,7 +1,9 @@
 [
   {
     "NAMA SEKOLAHAN": "KB AISYAH 7",
+    "NPSN": 69836693,
     "JUMLAH GURU": 3,
+    "ALAMAT": "TELASIH NO. 34, KELURAHAN ORO-ORO OMBO",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 26,
@@ -10,7 +12,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB AL HUSNA",
+    "NPSN": 69836690,
     "JUMLAH GURU": 6,
+    "ALAMAT": "BALI NO 29",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 29,
@@ -19,7 +23,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB BUAH HATI",
+    "NPSN": 69836702,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl. Ki Ageng Kebo No. 7 Kanigoro Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 0,
@@ -28,7 +34,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB CENDEKIA KIDS SCHOOL",
+    "NPSN": 69836698,
     "JUMLAH GURU": 7,
+    "ALAMAT": "JL. Setia Budi Timur No. 35 Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 89,
@@ -37,7 +45,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB DUMAI INDAH",
+    "NPSN": 69836699,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Imam Bonjol Gg Jati Semi No. 1 Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 17,
@@ -46,7 +56,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB FLAMBOYAN",
+    "NPSN": 69836736,
     "JUMLAH GURU": 5,
+    "ALAMAT": "Jl. Sido Luhur No.06 Kel. Kelun Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 63,
@@ -55,7 +67,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB HARAPAN KITA",
+    "NPSN": 69836703,
     "JUMLAH GURU": 1,
+    "ALAMAT": "BUMI JAYA NO. 30",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 13,
@@ -64,7 +78,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB LITTLE HANDS",
+    "NPSN": 69836694,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Perum Dumai Indah Jl. Dwijaya V/184 Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 15,
@@ -73,7 +89,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB MISFALAH 51",
+    "NPSN": 69836701,
     "JUMLAH GURU": 4,
+    "ALAMAT": "KI AGENG SELO GG. PINGI I NO.20",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 25,
@@ -82,7 +100,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB SITI HAJAR 1",
+    "NPSN": 69836695,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl. MAWAR NO 2`",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 4,
@@ -91,7 +111,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KELOMPOK BERMAIN MENTARI",
+    "NPSN": 69836727,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Turi No. 17 RT. 34 RW. 07 Oro-Oro Ombo Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 21,
@@ -100,7 +122,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PAUD AISYAH KARTOHARJO",
+    "NPSN": 69919668,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl.Bali Gg.XI No.17 RT. 033/RW 006 KOTA MADIUN",
     "JENJANG": "PAUD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 58,
@@ -109,7 +133,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PAUD AL IMRON IRSYAD",
+    "NPSN": 69938712,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl.Tawang Sakti Rt.01/Rw.I Kota Madiun",
     "JENJANG": "PAUD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 15,
@@ -118,7 +144,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PAUD PELANGI ",
+    "NPSN": 69919645,
     "JUMLAH GURU": 1,
+    "ALAMAT": "Jl.Jayengan No.12 Madiun",
     "JENJANG": "PAUD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 1,
@@ -127,7 +155,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PKBM AL IMRON IRSYAD",
+    "NPSN": "P9908189",
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl. Tawang Sakti RT 001/ 001 Kel Tawangrejo",
     "JENJANG": "PKBM",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 0,
@@ -136,7 +166,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PKBM AL MUSTOFA",
+    "NPSN": "P2962975",
     "JUMLAH GURU": 8,
+    "ALAMAT": "Jl. Sarana Mulya No.19 RT.09/RW.03 Rejomulyo",
     "JENJANG": "PKBM",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 128,
@@ -145,7 +177,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PKBM HOME SCHOOLING PRIMAGAMA MADIUN",
+    "NPSN": "P9996861",
     "JUMLAH GURU": 7,
+    "ALAMAT": "Perumahan Jl. Damai Mulya No.25 Blok M Rejomulyo",
     "JENJANG": "PKBM",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 30,
@@ -154,7 +188,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PKBM PONCOWATI",
+    "NPSN": "P2963181",
     "JUMLAH GURU": 9,
+    "ALAMAT": "Jl. Biduri no. 1 Kota Madiun",
     "JENJANG": "PKBM",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 107,
@@ -163,7 +199,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD ANTARIKSA",
+    "NPSN": 69836728,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL HERCULES BLOK J 12 BUMI ANTARIKSA",
     "JENJANG": "PAUD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 17,
@@ -172,7 +210,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD CERIA INSANA",
+    "NPSN": 69836731,
     "JUMLAH GURU": 5,
+    "ALAMAT": "Jl. Binajaya No. 52 Rejomulyo Kota Madiun",
     "JENJANG": "PAUD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 27,
@@ -181,7 +221,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD NANAS SUKOSARI",
+    "NPSN": 69836733,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. Sri Widodo No. 37B",
     "JENJANG": "PAUD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 11,
@@ -190,7 +232,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD TUNAS HARAPAN",
+    "NPSN": 69836732,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. GIRI MULYO PERUM REJOMULYO",
     "JENJANG": "PAUD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 18,
@@ -199,7 +243,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD AISYIYAH KARTOHARJO",
+    "NPSN": 69885372,
     "JUMLAH GURU": 6,
+    "ALAMAT": "Jl. Anggrek No. 5 Kota Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 43,
@@ -208,7 +254,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD ISLAM HUDAN LINNAS",
+    "NPSN": 20541794,
     "JUMLAH GURU": 9,
+    "ALAMAT": "Jl. KYAI HAMDANI NO.1 MADIUN",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 188,
@@ -217,7 +265,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD ISLAM SITI HAJAR",
+    "NPSN": 20571009,
     "JUMLAH GURU": 17,
+    "ALAMAT": "Jl. Slamet Riyadi 10A",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 331,
@@ -226,7 +276,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD KRISTEN PETRA",
+    "NPSN": 20534204,
     "JUMLAH GURU": 8,
+    "ALAMAT": "Jl. Sulawesi 5b Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 46,
@@ -235,7 +287,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD IT AISYAH UMMUL MUKMININ",
+    "NPSN": 69987586,
     "JUMLAH GURU": 8,
+    "ALAMAT": "JL. PILANGWERDA 2A",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 103,
@@ -244,7 +298,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDK SANTO BAVO",
+    "NPSN": 20534203,
     "JUMLAH GURU": 8,
+    "ALAMAT": "Jl. Bumijaya No. 60",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 56,
@@ -253,7 +309,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 KANIGORO",
+    "NPSN": 20534217,
     "JUMLAH GURU": 10,
+    "ALAMAT": "Jl. Ronggo Tohjoyo 12",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 67,
@@ -262,7 +320,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 KARTOHARJO",
+    "NPSN": 20534196,
     "JUMLAH GURU": 18,
+    "ALAMAT": "Jl. Jawa No. 33",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 323,
@@ -271,7 +331,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 KLEGEN",
+    "NPSN": 20534278,
     "JUMLAH GURU": 23,
+    "ALAMAT": "Jl. Mastrip No. 58 Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 323,
@@ -280,7 +342,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 TAWANGREJO",
+    "NPSN": 20534271,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl. Tawang Sakti No. 9",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 151,
@@ -289,7 +353,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 KANIGORO",
+    "NPSN": 20534276,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jln. Sri Unggul No. 13",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 151,
@@ -298,7 +364,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 KARTOHARJO",
+    "NPSN": 20534277,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jln. Sulawesi No. 20",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 59,
@@ -307,7 +375,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 KLEGEN",
+    "NPSN": 20534254,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jl. Wiyata Wijaya No.01",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 130,
@@ -316,7 +386,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 TAWANGREJO",
+    "NPSN": 20534251,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl.Tawang Sakti No.55 Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 90,
@@ -325,7 +397,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN O3 KANIGORO",
+    "NPSN": 20534246,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jl. Setia Budi No.52",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 163,
@@ -334,7 +408,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 03 KLEGEN",
+    "NPSN": 20534130,
     "JUMLAH GURU": 18,
+    "ALAMAT": "Jl. Imam Bonjol Gg. Jati Putra",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 323,
@@ -343,7 +419,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 04 KLEGEN",
+    "NPSN": 20534146,
     "JUMLAH GURU": 13,
+    "ALAMAT": "Jalan Nusa Penida",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 73,
@@ -352,7 +430,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN KELUN",
+    "NPSN": 20534128,
     "JUMLAH GURU": 10,
+    "ALAMAT": "Jl. Sri Agung 77",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 173,
@@ -361,7 +441,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN ORO ORO OMBO",
+    "NPSN": 20534259,
     "JUMLAH GURU": 18,
+    "ALAMAT": "Jl. Biduri No 1",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 218,
@@ -370,7 +452,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN PILANGBANGO",
+    "NPSN": 20534265,
     "JUMLAH GURU": 19,
+    "ALAMAT": "Jl. Pilang Widya No. 4",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 264,
@@ -379,7 +463,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN REJOMULYO",
+    "NPSN": 20534273,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jln. Sasana Sari 12",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 123,
@@ -388,7 +474,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN SUKOSARI",
+    "NPSN": 20534110,
     "JUMLAH GURU": 13,
+    "ALAMAT": "Jl.SRI LINUHUNG No.1",
     "JENJANG": "SD",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 39,
@@ -397,7 +485,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMP PSM KOTA MADIUN",
+    "NPSN": 20534158,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jln Panglima Sudirman 90 B",
     "JENJANG": "SMP",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 25,
@@ -406,7 +496,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMP TAMAN BAKTI MADIUN",
+    "NPSN": 20534155,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jl. Jendral Sudirman No. 8 Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 7,
@@ -415,7 +507,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 8",
+    "NPSN": 20534164,
     "JUMLAH GURU": 39,
+    "ALAMAT": "Jl. Pilang Mulya No. 20",
     "JENJANG": "SMP",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 512,
@@ -424,7 +518,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SPS PERMATA BUNDA",
+    "NPSN": 69836734,
     "JUMLAH GURU": 2,
+    "ALAMAT": "TAWANG BAKTI NO 31 MADIUN",
     "JENJANG": "SPS",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 17,
@@ -433,7 +529,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA KANIGORO II",
+    "NPSN": 69836651,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Ronggotohjoyo No: 12 Kanigoro Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 22,
@@ -442,7 +540,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AISYIYAH BUSTANUL ATFAL 7",
+    "NPSN": 69836642,
     "JUMLAH GURU": 14,
+    "ALAMAT": "JL TELASIH NO 8",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 110,
@@ -451,7 +551,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL HUSNA",
+    "NPSN": 69836637,
     "JUMLAH GURU": 12,
+    "ALAMAT": "JL DIPONEGORO 14 B",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 149,
@@ -460,7 +562,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK CITRA INSANI",
+    "NPSN": 69836655,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. JAYA No 03 KOTA MADIUN",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 13,
@@ -469,7 +573,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA KANIGORO I",
+    "NPSN": 69836648,
     "JUMLAH GURU": 5,
+    "ALAMAT": "SRI UNGGUL",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 36,
@@ -478,7 +584,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA KELUN",
+    "NPSN": 69836662,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JL. SRI SEDONO",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 12,
@@ -487,7 +595,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA TAWANGREJO",
+    "NPSN": 69836663,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. TAWANG SAKTI NO. 57",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 26,
@@ -496,7 +606,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK EFRATA",
+    "NPSN": 69836639,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JL. TURI NO 30 MADIUN",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 14,
@@ -505,7 +617,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ISLAM HUDAN LINNAS",
+    "NPSN": 69836661,
     "JUMLAH GURU": 10,
+    "ALAMAT": "Jl. Kyai Hamdani No. 01 RT. 14 RW. 04",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 125,
@@ -514,7 +628,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ISLAMIYAH O1 REJOMULYO",
+    "NPSN": 69836656,
     "JUMLAH GURU": 5,
+    "ALAMAT": "Jl. Bumi Jaya No. 30 Rejomulyo Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 37,
@@ -523,7 +639,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ISLAMIYAH 02 REJOMULYO",
+    "NPSN": 69836657,
     "JUMLAH GURU": 8,
+    "ALAMAT": "Jalan Widi Mulya No.6",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 88,
@@ -532,7 +650,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK IT AISYAH UMMUL MUKMININ",
+    "NPSN": 69939160,
     "JUMLAH GURU": 6,
+    "ALAMAT": "Jl.Pilang Werda No.01 Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 22,
@@ -541,7 +661,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK KARTIKA IV-17",
+    "NPSN": 69836640,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JLN.DIPONEGORO NO 39",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 33,
@@ -550,7 +672,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK KATOLIK SANTO BAVO",
+    "NPSN": 69836659,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JL. BUMI JAYA NO. 60 RT17 RW 06 REJOMULYO KEC. KARTOHARJO",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 19,
@@ -559,7 +683,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK KRISTEN PETRA",
+    "NPSN": 20564156,
     "JUMLAH GURU": 6,
+    "ALAMAT": "JL. SULAWESI 5 B",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 35,
@@ -568,7 +694,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK KUSUMA MULYA BAKTI III",
+    "NPSN": 69836644,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL. THAMRIN GG IX NO 10 RT 12 RW 03 KLEGEN KARTOHARJO",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 11,
@@ -577,7 +705,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK MARGOBAKTI",
+    "NPSN": 69836660,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL. SRI WIDODO 35 SUKOSARI",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 23,
@@ -586,7 +716,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK MATARAM I",
+    "NPSN": 69836653,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JALAN.PILANG WIDYA NO.16",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 29,
@@ -595,7 +727,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK MATARAM II",
+    "NPSN": 69836654,
     "JUMLAH GURU": 3,
+    "ALAMAT": "PILANG WERDA",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 9,
@@ -604,7 +738,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK NASIONAL ",
+    "NPSN": 69836633,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JL.SERAM NO.8B",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 24,
@@ -613,7 +749,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK PERMATA HATI ",
+    "NPSN": 69836658,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl.Sari Mulya Gg.Masjid N0. 3 Rejomulyo Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 15,
@@ -622,7 +760,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK PERTIWI",
+    "NPSN": 69836634,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl. Pancawala No. 3",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 16,
@@ -631,7 +771,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK PSM",
+    "NPSN": 69836632,
     "JUMLAH GURU": 4,
+    "ALAMAT": "PANGLIMA SUDIRMAN 90 B",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 27,
@@ -640,7 +782,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SITI HAJAR I",
+    "NPSN": 69836650,
     "JUMLAH GURU": 8,
+    "ALAMAT": "JL. MASJID NO. 36, KELURAHAN KANIGORO, KOTA MADIUN",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 68,
@@ -649,7 +793,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SIWI PENI I ORO ORO OMBO",
+    "NPSN": 69836638,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl. Mayang Kembar No. 6 Oro-Oro Ombo ",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 5,
@@ -658,7 +804,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SIWI PENI II KLEGEN",
+    "NPSN": 69836646,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL. NUSA TENGGARA NO.37",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 16,
@@ -667,7 +815,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SYUHADA",
+    "NPSN": 69836649,
     "JUMLAH GURU": 7,
+    "ALAMAT": "Jl. Ronggo Tohjoyo No 90 Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 63,
@@ -676,7 +826,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK TUNAS RIMBA MADIUN",
+    "NPSN": 69836635,
     "JUMLAH GURU": 4,
+    "ALAMAT": "RIMBA JAYA 1A",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 45,
@@ -685,7 +837,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK YWKA MADIUN",
+    "NPSN": 69836591,
     "JUMLAH GURU": 5,
+    "ALAMAT": "Jalan TGP No. 7",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 43,
@@ -694,7 +848,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK IT AN NUR",
+    "NPSN": 69836647,
     "JUMLAH GURU": 6,
+    "ALAMAT": "JL. NUSA PENIDA NO 34",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 51,
@@ -703,7 +859,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK IT NUR MUJAHIDIN",
+    "NPSN": 69836643,
     "JUMLAH GURU": 9,
+    "ALAMAT": "JL. AURI NO. 1 PERUM BUMI ANTARIKSA",
     "JENJANG": "TK",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 106,
@@ -712,7 +870,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TPA AISYIYAH 7",
+    "NPSN": 69940445,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl.Telasih No. 34 Oro-oro Ombo, Kec. Kartoharjo Kota Madiun",
     "JENJANG": "TPA",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 20,
@@ -721,7 +881,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TPA AL HASANAH",
+    "NPSN": 69836707,
     "JUMLAH GURU": 2,
+    "ALAMAT": "BIDARA NO.6",
     "JENJANG": "TPA",
     "KECAMATAN": "KARTOHARJO",
     "JUMLAH SISWA": 0,
@@ -730,7 +892,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB AISYIYAH I",
+    "NPSN": 69836668,
     "JUMLAH GURU": 2,
+    "ALAMAT": "SIKATAN NO. 18",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 17,
@@ -739,7 +903,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB AL HUDA",
+    "NPSN": 70052336,
     "JUMLAH GURU": 5,
+    "ALAMAT": "Jl. Kapri no. 18, Kel. Ngegong Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 19,
@@ -748,7 +914,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB AL IRSYAD",
+    "NPSN": 70007349,
     "JUMLAH GURU": 7,
+    "ALAMAT": "Jl. Diponegoro No. 112B RT. 026 RW. 006 Madiun Lor Kota",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 29,
@@ -757,7 +925,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB AN NAJAHIYYAH",
+    "NPSN": 69836666,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Maleo Gg. Masjid No. 86 Nambangan Kidul Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 16,
@@ -766,7 +936,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB APEL II",
+    "NPSN": 69836711,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Hayam Wuruk 62 RT. 19 RT. 5 Manguharjo Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 16,
@@ -775,7 +947,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB BAKTI I",
+    "NPSN": 69836673,
     "JUMLAH GURU": 1,
+    "ALAMAT": "JL MOJOPAHIT NO 22 A",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 14,
@@ -784,7 +958,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB BINTANG AL IKHLAS",
+    "NPSN": 69836665,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Mliwis No. 24B Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 25,
@@ -793,16 +969,20 @@
   },
   {
     "NAMA SEKOLAHAN": "KB CAHAYA BUNDA",
+    "NPSN": 70010095,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl. Urip Sumoharjo 60 RT. 68 RW. 6 Nambangan Lor Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 13,
-    "LATITUDE": -7.6289,
-    "LONGITUDE": 111.5106
+    "LATITUDE": -7.5698,
+    "LONGITUDE": 111.6239
   },
   {
     "NAMA SEKOLAHAN": "KB DURIAN",
+    "NPSN": 69836708,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL MLIWIS NO 36",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 20,
@@ -811,7 +991,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB HARUM",
+    "NPSN": 69836670,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL. GAJAH MADA NO. 501",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 23,
@@ -820,7 +1002,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB JERUK",
+    "NPSN": 69836715,
     "JUMLAH GURU": 6,
+    "ALAMAT": "JL.SINGOSARI NOMOR 21, Kelurahan Patihan, Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 37,
@@ -829,7 +1013,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB KEDONDONG",
+    "NPSN": 69836674,
     "JUMLAH GURU": 6,
+    "ALAMAT": "PRAJURITAN GG. SD NO. 3",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 31,
@@ -838,16 +1024,20 @@
   },
   {
     "NAMA SEKOLAHAN": "KB MASYITHOH",
+    "NPSN": 69836672,
     "JUMLAH GURU": 3,
+    "ALAMAT": "ALOON-ALOON BARAT NO. 6",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 29,
-    "LATITUDE": -7.6287,
+    "LATITUDE": -7.543,
     "LONGITUDE": 111.5159
   },
   {
     "NAMA SEKOLAHAN": "KB USWATUN KHASANA",
+    "NPSN": 69836667,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL.SRITI NO.15",
     "JENJANG": "KB",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 15,
@@ -856,7 +1046,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PAUD BAHTERA KASIH",
+    "NPSN": 69939159,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl.Ahmad Yani No.15 Kota Madiun",
     "JENJANG": "PAUD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 34,
@@ -865,7 +1057,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD ANGGUR",
+    "NPSN": 69836713,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL. MINAK KONCAR NO. 39",
     "JENJANG": "PAUD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 32,
@@ -874,7 +1068,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD ASTER",
+    "NPSN": 69836712,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL. MERAPI NO. 06",
     "JENJANG": "PAUD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 12,
@@ -883,16 +1079,20 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD KASIH IBU",
+    "NPSN": 69836710,
     "JUMLAH GURU": 4,
+    "ALAMAT": "TIRTA RAYA II NO. 7",
     "JENJANG": "PAUD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 22,
-    "LATITUDE": -7.6306,
-    "LONGITUDE": 111.5016
+    "LATITUDE": -7.599,
+    "LONGITUDE": 111.4988
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD NANAS",
+    "NPSN": 69836716,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl. Gembili RT. 15 RW.05 Kel. Ngegong Kota Madiun",
     "JENJANG": "PAUD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 23,
@@ -901,7 +1101,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD TERATAI",
+    "NPSN": 69836717,
     "JUMLAH GURU": 4,
+    "ALAMAT": "LAMBANGSARI I B6 NO 1B",
     "JENJANG": "PAUD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 14,
@@ -910,7 +1112,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD WIJAYA KUSUMA",
+    "NPSN": 69836718,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JLN. MASKUMAMBANG NO. 21",
     "JENJANG": "PAUD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 31,
@@ -919,7 +1123,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL HIDAYAH III",
+    "NPSN": 69749874,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JLN URIP SUMOHARJO N0 115 MANGUHARJO KOTA MADIUN",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 11,
@@ -928,16 +1134,20 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AISYIYAH BUSTANUL ATFAL I",
+    "NPSN": 69836592,
     "JUMLAH GURU": 8,
+    "ALAMAT": "Jl. Jonggrang Gg.II/8a Patihan, Manguharjo, Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 96,
-    "LATITUDE": -7.6325,
-    "LONGITUDE": 111.5142
+    "LATITUDE": -7.5496,
+    "LONGITUDE": 111.5087
   },
   {
     "NAMA SEKOLAHAN": "TK AL HIDAYAH PANGUNGANGAN",
+    "NPSN": 69836574,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JL. SIKATAN NO. 18",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 31,
@@ -946,7 +1156,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK BAKTI",
+    "NPSN": 69836583,
     "JUMLAH GURU": 9,
+    "ALAMAT": "JL.MERAPI NO.6",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 145,
@@ -955,7 +1167,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA DINAS P DAN K",
+    "NPSN": 69836586,
     "JUMLAH GURU": 3,
+    "ALAMAT": "MOJOPAHIT NO.22 A",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 19,
@@ -964,7 +1178,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA NGEGONG",
+    "NPSN": 69836575,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. MAY JEND SUNGKONO",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 24,
@@ -973,7 +1189,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA SOGATEN",
+    "NPSN": 69836594,
     "JUMLAH GURU": 2,
+    "ALAMAT": "APOTIK HIDUP NO. 24",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 6,
@@ -982,7 +1200,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK GAJAH MADA",
+    "NPSN": 69836595,
     "JUMLAH GURU": 2,
+    "ALAMAT": "PUSPOWARNO NO.12",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 9,
@@ -991,7 +1211,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ISLAM AL HUDA",
+    "NPSN": 20564094,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl. Gajah Mada Lama No. 2 Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 76,
@@ -1000,7 +1222,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ISLAM AL IRSYAD MADIUN",
+    "NPSN": 20564110,
     "JUMLAH GURU": 26,
+    "ALAMAT": "JL. KAPRI 18",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 228,
@@ -1009,7 +1233,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ISLAM MASYITHOH",
+    "NPSN": 69836590,
     "JUMLAH GURU": 10,
+    "ALAMAT": "JL DIPONEGORO 112B MADIUN",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 119,
@@ -1018,16 +1244,20 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ISLAMIYAH RAHMATAN LIL ALAMIN",
+    "NPSN": 69836585,
     "JUMLAH GURU": 11,
+    "ALAMAT": "ALOON-ALOON BARAT NO.06",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 128,
-    "LATITUDE": -7.6306,
-    "LONGITUDE": 111.5092
+    "LATITUDE": -7.624,
+    "LONGITUDE": 111.4925
   },
   {
     "NAMA SEKOLAHAN": "TK KARTIKA IX 31",
+    "NPSN": 69836581,
     "JUMLAH GURU": 7,
+    "ALAMAT": "HAYAM WURUK NO.14A",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 67,
@@ -1036,7 +1266,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK KARTIKA V 21",
+    "NPSN": 20564106,
     "JUMLAH GURU": 5,
+    "ALAMAT": "Jl. Urip Sumoharjo 60 RT. 68 RW. 6 Nambangan Lor Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 58,
@@ -1045,7 +1277,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK KEMALA BHAYANGKARA 53",
+    "NPSN": 20564103,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL. KARTINI NO. 02",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 47,
@@ -1054,7 +1288,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK KUNTUM MEKAR",
+    "NPSN": 69836589,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl. Nias No. 35 RT. 30 RW. 8 Madiun Lor Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 36,
@@ -1063,7 +1299,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK PG REJOAGUNG BARU",
+    "NPSN": 69836579,
     "JUMLAH GURU": 4,
+    "ALAMAT": "PERUM BUMI WINONGO INDAH II GEDONGAN",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 51,
@@ -1072,7 +1310,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK PUTRA CITRA ABADI",
+    "NPSN": 69836593,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JALAN YOS SUDARSO NO 38",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 15,
@@ -1081,7 +1321,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SANTO BERNADUS",
+    "NPSN": 69836573,
     "JUMLAH GURU": 7,
+    "ALAMAT": "MAYJEND SUNGKONO",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 76,
@@ -1090,7 +1332,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SITI HAJAR 3",
+    "NPSN": 69836584,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. A. YANI NO. 07",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 30,
@@ -1099,7 +1343,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SIWI PENI NAMBANGAN LOR",
+    "NPSN": 69836582,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl. Urip Sumoharjo No. 3 Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 41,
@@ -1108,7 +1354,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK TAMAN INDRIA",
+    "NPSN": 69836576,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl Cendrawasih No 28 Nambangan Lor Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 18,
@@ -1117,7 +1365,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK TUNAS HARAPAN",
+    "NPSN": 69836587,
     "JUMLAH GURU": 6,
+    "ALAMAT": "GAJAHMADA GG. RUKUN 11",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 45,
@@ -1126,7 +1376,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TKK SANTO YUSUF",
+    "NPSN": 69836572,
     "JUMLAH GURU": 4,
+    "ALAMAT": "jl. Tombro No. 13 Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 23,
@@ -1135,7 +1387,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TPA PERMATA CENDEKIA",
+    "NPSN": 69836588,
     "JUMLAH GURU": 9,
+    "ALAMAT": "DIPONEGORO NO.80 MADIUN",
     "JENJANG": "TPA",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 31,
@@ -1144,7 +1398,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD ADVENT IMANUEL",
+    "NPSN": 69938807,
     "JUMLAH GURU": 7,
+    "ALAMAT": "Jalan Dieng No. 19 Kota Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 61,
@@ -1153,7 +1409,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDK SANTO BERNADUS",
+    "NPSN": 20534202,
     "JUMLAH GURU": 19,
+    "ALAMAT": "Jl. A. Yani No. 7",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 354,
@@ -1162,7 +1420,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDK SANTO YUSUF",
+    "NPSN": 20534201,
     "JUMLAH GURU": 13,
+    "ALAMAT": "Jl. Diponegoro No. 80",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 141,
@@ -1171,7 +1431,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 MADIUN LOR",
+    "NPSN": 20534214,
     "JUMLAH GURU": 13,
+    "ALAMAT": "Jl. Tangkuban Prahu No. 01",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 74,
@@ -1180,7 +1442,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 NAMBANGAN KIDUL",
+    "NPSN": 20534109,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jl. Mliwis No. 26 Kota Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 128,
@@ -1189,7 +1453,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 NAMBANGAN LOR",
+    "NPSN": 20534133,
     "JUMLAH GURU": 21,
+    "ALAMAT": "Jl. H. Agus Salim No. 140",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 271,
@@ -1198,7 +1464,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 WINONGO",
+    "NPSN": 20534244,
     "JUMLAH GURU": 21,
+    "ALAMAT": "Jl. Gajah Mada No. 26",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 313,
@@ -1207,7 +1475,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 MADIUN LOR",
+    "NPSN": 20534287,
     "JUMLAH GURU": 13,
+    "ALAMAT": "Jl. Diponegoro No.41",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 100,
@@ -1216,7 +1486,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 NAMBANGAN KIDUL",
+    "NPSN": 20534149,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl. Urip Sumoharjo Sidodadi Gg.III 07",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 112,
@@ -1225,7 +1497,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 NAMBANGAN LOR",
+    "NPSN": 20534148,
     "JUMLAH GURU": 13,
+    "ALAMAT": "Jl Urip Sumoharjo Komplek Asrama Yonif 501",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 121,
@@ -1234,7 +1508,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 WINONGO",
+    "NPSN": 20534250,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jl. Singosari No 26",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 58,
@@ -1243,7 +1519,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 03 MADIUN LOR",
+    "NPSN": 20534145,
     "JUMLAH GURU": 35,
+    "ALAMAT": "Jl.Yos Sudarso No 102 Kota Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 502,
@@ -1252,7 +1530,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 03 NAMBANGAN KIDUL",
+    "NPSN": 20534134,
     "JUMLAH GURU": 21,
+    "ALAMAT": "Jl. Arwana 24",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 281,
@@ -1261,7 +1541,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 04 MADIUN LOR",
+    "NPSN": 20553970,
     "JUMLAH GURU": 17,
+    "ALAMAT": "Jalan Sumatra 15 Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 313,
@@ -1270,7 +1552,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 05 MADIUN LOR",
+    "NPSN": 20534143,
     "JUMLAH GURU": 34,
+    "ALAMAT": "Jl. Jawa No.20 Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 481,
@@ -1279,7 +1563,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN MANGUHARJO",
+    "NPSN": 20534286,
     "JUMLAH GURU": 20,
+    "ALAMAT": "Jl. Hayam Wuruk 06",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 234,
@@ -1288,7 +1574,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN NGEGONG",
+    "NPSN": 20534113,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jl. Keningar No. 13",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 165,
@@ -1297,7 +1585,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN PANGONGANGAN",
+    "NPSN": 20534257,
     "JUMLAH GURU": 22,
+    "ALAMAT": "Jl. Alun-alun Timur No. 05",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 270,
@@ -1306,7 +1596,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN PATIHAN",
+    "NPSN": 20534275,
     "JUMLAH GURU": 21,
+    "ALAMAT": "Jl. Penataran No. 02 Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 237,
@@ -1315,7 +1607,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN SOGATEN",
+    "NPSN": 20534112,
     "JUMLAH GURU": 12,
+    "ALAMAT": "Jl. Puspowarno No.15",
     "JENJANG": "SD",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 162,
@@ -1324,7 +1618,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMP ISLAM TERPADU BAKTI IBU",
+    "NPSN": 69929242,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jalan Raya Ring Road Barat Kota Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 122,
@@ -1333,16 +1629,20 @@
   },
   {
     "NAMA SEKOLAHAN": "SMP MUHAMMADIYAH 1",
+    "NPSN": 20534159,
     "JUMLAH GURU": 13,
+    "ALAMAT": "Jl. Lumbung Hidup No.2A Kel. Ngegong, Kec. Manguharjo",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 45,
-    "LATITUDE": -7.6083,
-    "LONGITUDE": 111.5109
+    "LATITUDE": -7.6063,
+    "LONGITUDE": 111.5107
   },
   {
     "NAMA SEKOLAHAN": "SMP SANTO BERNARDUS",
+    "NPSN": 20534157,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jl. Ahmad Yani 7 Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 201,
@@ -1351,7 +1651,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPK SANTO YUSUF MADIUN",
+    "NPSN": 20534156,
     "JUMLAH GURU": 16,
+    "ALAMAT": "Jln Diponegoro 80 Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 123,
@@ -1360,7 +1662,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 1",
+    "NPSN": 20534154,
     "JUMLAH GURU": 51,
+    "ALAMAT": "Jl. R.A. Kartini 4",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 746,
@@ -1369,7 +1673,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 12",
+    "NPSN": 20534163,
     "JUMLAH GURU": 39,
+    "ALAMAT": "Jl. Yos Sudarso No. 87",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 631,
@@ -1378,7 +1684,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 13",
+    "NPSN": 20534172,
     "JUMLAH GURU": 55,
+    "ALAMAT": "Jl. Sumatra No. 13",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 742,
@@ -1387,7 +1695,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 3",
+    "NPSN": 20534169,
     "JUMLAH GURU": 38,
+    "ALAMAT": "Jl. RA. Kartini No.6 Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 555,
@@ -1396,7 +1706,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 5",
+    "NPSN": 20534167,
     "JUMLAH GURU": 41,
+    "ALAMAT": "Jl. Semeru No. 11 Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 463,
@@ -1405,7 +1717,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 7",
+    "NPSN": 20534165,
     "JUMLAH GURU": 48,
+    "ALAMAT": "Jl. Merak No. 4",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 666,
@@ -1414,7 +1728,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 9",
+    "NPSN": 20534152,
     "JUMLAH GURU": 34,
+    "ALAMAT": "Jalan Campursari 10",
     "JENJANG": "SMP",
     "KECAMATAN": "MANGUHARJO",
     "JUMLAH SISWA": 430,
@@ -1423,7 +1739,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AISYIYAH 3",
+    "NPSN": 69898217,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Serayu Barat No. 32",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": "",
@@ -1432,7 +1750,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB AL HIDAYAH PLUS ",
+    "NPSN": 69836686,
     "JUMLAH GURU": 1,
+    "ALAMAT": "Jl. Margabawera Barat No. 10 Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": "",
@@ -1441,7 +1761,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB CERIA BANGSA",
+    "NPSN": 69836678,
     "JUMLAH GURU": 2,
+    "ALAMAT": "SERAYU BARAT NO. 74B",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 9,
@@ -1450,7 +1772,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB ASH SHIBY",
+    "NPSN": 69836689,
     "JUMLAH GURU": 7,
+    "ALAMAT": "JL. PUCANG BARU NO 02 B",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 32,
@@ -1459,7 +1783,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB DARUL ULUM",
+    "NPSN": 69836677,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl. Setinggil RT. 30 RW. 01 Demangan Taman Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 71,
@@ -1468,7 +1794,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB DINAR CERIA NASYIAH 1",
+    "NPSN": 69836700,
     "JUMLAH GURU": 1,
+    "ALAMAT": "Jl. Punthuk No. 9 RT. 1 RW. 1 Kejuron Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 0,
@@ -1477,7 +1805,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB INSAN AL FIRDAUS",
+    "NPSN": 69836679,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL. SERAYU TIMUR UNMER MADIUN",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 4,
@@ -1486,7 +1816,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB JOY",
+    "NPSN": 69836680,
     "JUMLAH GURU": 15,
+    "ALAMAT": "JL. HOS COKROAMINOTO NO. 85",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 83,
@@ -1495,7 +1827,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB MITRA HARAPAN",
+    "NPSN": 69836683,
     "JUMLAH GURU": 3,
+    "ALAMAT": "PESANGGRAHAN 2 NO. 18",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 26,
@@ -1504,7 +1838,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB MUTIARA BANGSA",
+    "NPSN": 69836676,
     "JUMLAH GURU": 5,
+    "ALAMAT": "SOEKARNO HATTA NO 19",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 24,
@@ -1513,7 +1849,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB SAHABAT",
+    "NPSN": 70026251,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl. Bhayangkara II, Banjarejo Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 94,
@@ -1522,7 +1860,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB SITI HAJAR 3",
+    "NPSN": 69836687,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JALAN BAWONO MANIS, MANISREJO, KOTA MADIUN",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 14,
@@ -1531,7 +1871,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KB TUNAS CENDEKIA 17-2 MADIUN",
+    "NPSN": 69836682,
     "JUMLAH GURU": 6,
+    "ALAMAT": "JALAN KAMPAR NO 10",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 40,
@@ -1540,7 +1882,9 @@
   },
   {
     "NAMA SEKOLAHAN": "KELOMPOK BERMAIN AL HUSNA 2",
+    "NPSN": 70055236,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl. Tanjung Raya XII Kel. Manisrejo Kota Madiun",
     "JENJANG": "KB",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 22,
@@ -1549,7 +1893,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PAUD AISYIYAH 18",
+    "NPSN": 69920141,
     "JUMLAH GURU": 1,
+    "ALAMAT": "Jl.Sentul 1C Taman Madiun",
     "JENJANG": "PAUD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 22,
@@ -1558,7 +1904,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PAUD FIRDAUS",
+    "NPSN": 69836685,
     "JUMLAH GURU": 1,
+    "ALAMAT": "Jl Ciliwung III/1 RT. 41 RW. 13",
     "JENJANG": "PAUD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": "",
@@ -1567,7 +1915,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PAUD NUR AS SALAM",
+    "NPSN": 69836723,
     "JUMLAH GURU": 2,
+    "ALAMAT": "PERUM TAMAN SALAK C/129",
     "JENJANG": "PAUD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 18,
@@ -1576,7 +1926,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PKBM ALGHEINS",
+    "NPSN": 69836722,
     "JUMLAH GURU": 7,
+    "ALAMAT": "Jl. Taman Asri 2 No. 190 Banjarejo Kota Madiun",
     "JENJANG": "PKBM",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 87,
@@ -1585,7 +1937,9 @@
   },
   {
     "NAMA SEKOLAHAN": "PKBM KHAIRUNNAS MADIUN",
+    "NPSN": 69836720,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl. Kendalisodo No. 5 RT. 5 RW. 2 Madiun",
     "JENJANG": "PKBM",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 150,
@@ -1594,7 +1948,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD ANGGREK",
+    "NPSN": 69836721,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JALAN KOPERASI GG. 1",
     "JENJANG": "PAUD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 5,
@@ -1603,7 +1959,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD CERIA 1",
+    "NPSN": 69836725,
     "JUMLAH GURU": 3,
+    "ALAMAT": "SAREAN NO. 26A",
     "JENJANG": "PAUD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 6,
@@ -1612,7 +1970,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD KEMUNING",
+    "NPSN": 69749875,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. KOPERASI NO.68",
     "JENJANG": "PAUD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 21,
@@ -1621,7 +1981,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD MUTIARA",
+    "NPSN": 69749877,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL.SALAK III NO. 28",
     "JENJANG": "PAUD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 44,
@@ -1630,7 +1992,9 @@
   },
   {
     "NAMA SEKOLAHAN": "POS PAUD PISANG",
+    "NPSN": 69749876,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JL.SETINGGIL RT. 30 RW.1 NO.3",
     "JENJANG": "PAUD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 0,
@@ -1639,7 +2003,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SPS PAUD SERUNI",
+    "NPSN": 69836726,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL. SETIA BUDI NO. 42",
     "JENJANG": "SPS",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 15,
@@ -1648,7 +2014,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ABA 11",
+    "NPSN": 20565648,
     "JUMLAH GURU": 7,
+    "ALAMAT": "JL. RAWA BHAKTI 37",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 40,
@@ -1657,7 +2025,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ABA 18",
+    "NPSN": 69836675,
     "JUMLAH GURU": 9,
+    "ALAMAT": "JL. Sentul No. 1c",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 105,
@@ -1666,7 +2036,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ABADI",
+    "NPSN": 69836599,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL. RONGGO JUMENO NO. 07 RT.05 RW.02",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 50,
@@ -1675,7 +2047,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AISYIYAH BUSTANUL ATHFAL 3",
+    "NPSN": 69836623,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jl. Margobawero Barat No. 10 Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 163,
@@ -1684,7 +2058,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL HIDAYAH 1",
+    "NPSN": 69836629,
     "JUMLAH GURU": 10,
+    "ALAMAT": "JL. BAWONO MANIS PERUMNAS I",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 84,
@@ -1693,7 +2069,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL HIDAYAH PLUS",
+    "NPSN": 69836606,
     "JUMLAH GURU": 8,
+    "ALAMAT": "SERAYU BARAT NO. 74B",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 80,
@@ -1702,7 +2080,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL HUSNA 2",
+    "NPSN": 69836627,
     "JUMLAH GURU": 14,
+    "ALAMAT": "JL. TANJUNG RAYA XI / 30D Manisrejo Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 127,
@@ -1711,7 +2091,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL KAUTSAR BAKTI 2",
+    "NPSN": 69836607,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl. Kenari No. 11 RT 30 RW 10 Kel. Kejuron Kec. Taman Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 31,
@@ -1720,7 +2102,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL AMIN",
+    "NPSN": 69836614,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL. PESANGGRAHAN VII NO 2",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 27,
@@ -1729,7 +2113,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL HIDAYAH 4 TAMAN",
+    "NPSN": 69836617,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Kapuas No.25 Rt/Rw. 24/08 Kel.Taman Kec. Taman Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 20,
@@ -1738,7 +2124,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ANAK CERIA BANGSA",
+    "NPSN": "",
     "JUMLAH GURU": 4,
+    "ALAMAT": "",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 21,
@@ -1747,7 +2135,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ANTONIUS",
+    "NPSN": 69937553,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl.Pucang Baru No.2b kecamatan.Taman Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 18,
@@ -1756,7 +2146,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DARUL ULUM TAMAN",
+    "NPSN": 69836609,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL. COKROAMINOTO NO. 129",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 71,
@@ -1765,7 +2157,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA DEMANGAN",
+    "NPSN": 69836613,
     "JUMLAH GURU": 2,
+    "ALAMAT": "ASAHAN NO. 46",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 7,
@@ -1774,7 +2168,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA  1 MANISREJO",
+    "NPSN": 69836600,
     "JUMLAH GURU": 4,
+    "ALAMAT": "Jl. Jatisiwur RT. 17 RW. 07 Kel. Demangan Kec. Taman ",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 50,
@@ -1783,7 +2179,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA JOSENAN",
+    "NPSN": "",
     "JUMLAH GURU": 3,
+    "ALAMAT": "",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 32,
@@ -1792,7 +2190,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK IHSANIYAH",
+    "NPSN": 69836625,
     "JUMLAH GURU": 9,
+    "ALAMAT": "JL. TANJUNG RAYA GANG VI NO. 24",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 76,
@@ -1801,7 +2201,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK ISLAM INSAN AL FIRDAUS",
+    "NPSN": 69836596,
     "JUMLAH GURU": 8,
+    "ALAMAT": "JL.TILAM UPIH NO: 2 JOSENAN",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 116,
@@ -1810,7 +2212,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK KARTIKA IV-15",
+    "NPSN": 69836602,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JL. Sentul No.9 Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 17,
@@ -1819,7 +2223,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK LKMD KEJURON",
+    "NPSN": 69836604,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. SERAYU TIMUR UNMER MADIUN",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 23,
@@ -1828,7 +2234,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK LKMD PANDEAN II",
+    "NPSN": 69836618,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Kemiri Komplek AD Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 18,
@@ -1837,7 +2245,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK LKMD PANDEAN III",
+    "NPSN": 69836611,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JALAN PEPAYA NO. 46",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 4,
@@ -1846,7 +2256,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK NASIONAL TIGA BAHASA MITRA HARAPAN",
+    "NPSN": 20565665,
     "JUMLAH GURU": 11,
+    "ALAMAT": "JL. CITARUM 37",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 62,
@@ -1855,7 +2267,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK NEGERI PEMBINA",
+    "NPSN": 69836605,
     "JUMLAH GURU": 11,
+    "ALAMAT": "JL. SIAK NO. 32 kec. TAMAN KOTA MADIUN",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 108,
@@ -1864,7 +2278,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK NUR AS SALAM ",
+    "NPSN": 69836598,
     "JUMLAH GURU": 6,
+    "ALAMAT": "JL. SOEKARNO HATTA NO.19",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 44,
@@ -1873,7 +2289,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK PELITA HARAPAN",
+    "NPSN": 69836626,
     "JUMLAH GURU": 3,
+    "ALAMAT": "JL. KARTIKA MANIS NO.5",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 21,
@@ -1882,7 +2300,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK PERWANIDA",
+    "NPSN": 69836615,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL. CILIWUNG GG III NO 1",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 31,
@@ -1891,7 +2311,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK RT 17 KEJURON",
+    "NPSN": 69836612,
     "JUMLAH GURU": 2,
+    "ALAMAT": "JL. COKROAMINOTO 129",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 8,
@@ -1900,7 +2322,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SIWIPENI RAHAYU",
+    "NPSN": 69836597,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. COKROBASONTO GG. 1 NO. 5 JOSENAN",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 19,
@@ -1909,7 +2333,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK SIWIPENI TAMAN 1",
+    "NPSN": 69836608,
     "JUMLAH GURU": 2,
+    "ALAMAT": "Jl. RINGIN NO. 9",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 5,
@@ -1918,7 +2344,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK TUNAS BANGSA ",
+    "NPSN": 69836620,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL TOWANGSAN NO 27 Kel.Mojorejo Kec.Taman Kota Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 26,
@@ -1927,7 +2355,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK TUNAS BAKTI ",
+    "NPSN": "",
     "JUMLAH GURU": 3,
+    "ALAMAT": "",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 11,
@@ -1936,7 +2366,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK YABUNAYYA",
+    "NPSN": 69836616,
     "JUMLAH GURU": 3,
+    "ALAMAT": "APOKAT NO: 59",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 28,
@@ -1945,7 +2377,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK CANDRA SIWITAMA",
+    "NPSN": 69836622,
     "JUMLAH GURU": 4,
+    "ALAMAT": "JL. MOBILISASI PELAJAR NO. 2",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 23,
@@ -1954,7 +2388,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK AL HIDAYAH 2",
+    "NPSN": 69836610,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl. Kapten Saputro No. 47 Madiun",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 126,
@@ -1963,7 +2399,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TK DHARMA WANITA 2 MANISREJO",
+    "NPSN": 69836621,
     "JUMLAH GURU": 5,
+    "ALAMAT": "MULYA BAKTI NO.17/23",
     "JENJANG": "TK",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 54,
@@ -1972,7 +2410,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TPA AL HUSNA",
+    "NPSN": 69836603,
     "JUMLAH GURU": 7,
+    "ALAMAT": "JL. KAPTEN TENDEAN NO. 24",
     "JENJANG": "TPA",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 3,
@@ -1981,7 +2421,9 @@
   },
   {
     "NAMA SEKOLAHAN": "TPA TUNAS CENDEKIA 17-2 MADIUN",
+    "NPSN": 69836630,
     "JUMLAH GURU": 5,
+    "ALAMAT": "JL. RESPATI MANIS II Kel. MANISREJO KEC.TAMAN",
     "JENJANG": "TPA",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 16,
@@ -1990,7 +2432,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD AL HUSNA ISLAMIC FULL DAY SCHOOL",
+    "NPSN": 69836628,
     "JUMLAH GURU": 26,
+    "ALAMAT": "JL.KELAPA MANIS-MANISREJO",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 332,
@@ -1999,7 +2443,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD ISLAM UNGGULAN SAHABAT",
+    "NPSN": 69836706,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jl. Tanjung Raya XI no. 30D Manisrejo Kota Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 173,
@@ -2008,7 +2454,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD KARTIKA IV-2",
+    "NPSN": 69836705,
     "JUMLAH GURU": 3,
+    "ALAMAT": "Jl. Kampar No. 10, RT 25/RW 08, Kec. Taman, Kel. Taman",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 0,
@@ -2017,7 +2465,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD MUHAMMADIYAH KOTA MADIUN",
+    "NPSN": 20534199,
     "JUMLAH GURU": 18,
+    "ALAMAT": "Jl. Soekarno-hatta No.3",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 430,
@@ -2026,7 +2476,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SD NASIONAL TIGA BAHASA MITRA HARAPAN",
+    "NPSN": 20553965,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jln Soekarno-Hatta No 19 Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 242,
@@ -2035,7 +2487,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDIT AL MUTTAQIN",
+    "NPSN": 70004502,
     "JUMLAH GURU": 17,
+    "ALAMAT": "JALAN KALIMOSODO NO. 54A",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 234,
@@ -2044,7 +2498,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDK SANTA MARYA MADIUN",
+    "NPSN": 20534219,
     "JUMLAH GURU": 16,
+    "ALAMAT": "Jl. Cokroaminoto 127",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 156,
@@ -2053,7 +2509,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 DEMANGAN",
+    "NPSN": 20534248,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jl. Kendalisodo No. 1",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 95,
@@ -2062,7 +2520,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 JOSENAN",
+    "NPSN": 20534208,
     "JUMLAH GURU": 13,
+    "ALAMAT": "Jl. Kalimosodo No.75",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 161,
@@ -2071,7 +2531,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 MANISREJO",
+    "NPSN": 20553978,
     "JUMLAH GURU": 20,
+    "ALAMAT": "Jl. Tanjung Raya No. 45 Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 324,
@@ -2080,7 +2542,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 MOJOREJO",
+    "NPSN": 20534211,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl. Setya Bakti 6",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 97,
@@ -2089,7 +2553,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 PANDEAN",
+    "NPSN": 20534280,
     "JUMLAH GURU": 22,
+    "ALAMAT": "Jl. Cokroaminoto No. 152 Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 322,
@@ -2098,7 +2564,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 01 TAMAN",
+    "NPSN": 20534131,
     "JUMLAH GURU": 34,
+    "ALAMAT": "JL. KEMIRI NO. 1",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 480,
@@ -2107,7 +2575,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 DEMANGAN",
+    "NPSN": 20534268,
     "JUMLAH GURU": 12,
+    "ALAMAT": "Jln. Kapten Tendean No.44",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 152,
@@ -2116,7 +2586,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 JOSANAN",
+    "NPSN": 20534267,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jl.kalimosodo No.92",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 162,
@@ -2125,7 +2597,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 MANISREJO",
+    "NPSN": 20553979,
     "JUMLAH GURU": 54,
+    "ALAMAT": "Jln. Kelapa Manis 6 Kec. Taman Kota Madiun",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 310,
@@ -2134,7 +2608,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 PANDEAN",
+    "NPSN": 20534262,
     "JUMLAH GURU": 21,
+    "ALAMAT": "Jl. Abdul Rahman Saleh No. 1",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 306,
@@ -2143,7 +2619,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 TAMAN",
+    "NPSN": 20534132,
     "JUMLAH GURU": 16,
+    "ALAMAT": "Jln. Serayu Timur No. 14",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 56,
@@ -2152,7 +2630,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 03 JOSENAN",
+    "NPSN": 20553967,
     "JUMLAH GURU": 14,
+    "ALAMAT": "Jl. Pesanggrahan VII no 4",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 52,
@@ -2161,7 +2641,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 03 MANISREJO",
+    "NPSN": 20534247,
     "JUMLAH GURU": 12,
+    "ALAMAT": "Jln Cokrobasonto No 77",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 155,
@@ -2170,7 +2652,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 03 TAMAN",
+    "NPSN": 20534263,
     "JUMLAH GURU": 11,
+    "ALAMAT": "Jl Gegono Manis II No. 2",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 69,
@@ -2179,7 +2663,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 04 MANISREJO",
+    "NPSN": 20534147,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jl. Ciliwung Gg.3 No. 39c",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 151,
@@ -2188,7 +2674,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN BANJAREJO",
+    "NPSN": 20534144,
     "JUMLAH GURU": 23,
+    "ALAMAT": "Jl. Pondok Manis No 01",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 428,
@@ -2197,7 +2685,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN KEJURON",
+    "NPSN": 20534198,
     "JUMLAH GURU": 12,
+    "ALAMAT": "Jl. Sekolahan No. 16",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 51,
@@ -2206,7 +2696,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN KUNCEN",
+    "NPSN": 20534129,
     "JUMLAH GURU": 12,
+    "ALAMAT": "Jl. Ringin Nomor 13",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 76,
@@ -2215,7 +2707,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMP DARUL MADINAH",
+    "NPSN": 20534114,
     "JUMLAH GURU": 15,
+    "ALAMAT": "Jl. Masjid Raya No.12",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 62,
@@ -2224,7 +2718,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMP MBS PROF HAMKA",
+    "NPSN": 69973366,
     "JUMLAH GURU": 10,
+    "ALAMAT": "JL. PONCOWATI RT/RW. 33/04 DEMANGAN",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 73,
@@ -2233,7 +2729,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMP NASIONAL TIGA BAHASA MITEA HARAPAN",
+    "NPSN": 20574712,
     "JUMLAH GURU": 13,
+    "ALAMAT": "JL. Soekarno Hatta No. 19 Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 118,
@@ -2242,7 +2740,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMP PROGRESIF AL MARDLIYYAH",
+    "NPSN": 70051263,
     "JUMLAH GURU": 8,
+    "ALAMAT": "Jl. H. Moch Noer No. 1 Demangan Kota Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 113,
@@ -2251,7 +2751,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 10",
+    "NPSN": 20534153,
     "JUMLAH GURU": 41,
+    "ALAMAT": "JL. DAWUHAN NO. 10 MADIUN",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 514,
@@ -2260,7 +2762,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 11",
+    "NPSN": 20534162,
     "JUMLAH GURU": 50,
+    "ALAMAT": "Jl. PG Kanigoro No. 11 Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 636,
@@ -2269,7 +2773,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 14",
+    "NPSN": 20534171,
     "JUMLAH GURU": 29,
+    "ALAMAT": "Jalan Tulus Bhakti 40",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 279,
@@ -2278,7 +2784,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 2",
+    "NPSN": 20534170,
     "JUMLAH GURU": 50,
+    "ALAMAT": "Jl. HA.Salim 31 Kota Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 746,
@@ -2287,7 +2795,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 4",
+    "NPSN": 20534168,
     "JUMLAH GURU": 56,
+    "ALAMAT": "Jl. Abdul Rahman Saleh 03",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 859,
@@ -2296,7 +2806,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SMPN 6",
+    "NPSN": 20534166,
     "JUMLAH GURU": 46,
+    "ALAMAT": "Jl. H.O.S. Cokroaminoto 60 Kota Madiun",
     "JENJANG": "SMP",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 629,
@@ -2305,7 +2817,9 @@
   },
   {
     "NAMA SEKOLAHAN": "SDN 02 MOJOREJO",
+    "NPSN": 20534262,
     "JUMLAH GURU": 32,
+    "ALAMAT": "Jl. Abdurrahman Saleh No.1, Mojorejo, Kec. Taman",
     "JENJANG": "SD",
     "KECAMATAN": "TAMAN",
     "JUMLAH SISWA": 495,

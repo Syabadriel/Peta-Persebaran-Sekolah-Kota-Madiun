@@ -87,13 +87,17 @@ function loadSchoolData(data) {
   data.forEach(s => {
     const m = L.marker([s.LATITUDE, s.LONGITUDE], { icon: createSchoolIcon(s.JENJANG) });
     m.bindTooltip(s['NAMA SEKOLAHAN'], { direction: 'top', offset: [0, -10], className: 'school-label' });
+
     m.bindPopup(`
       <div class="popup-content">
         <h4><i class="fas fa-school"></i> ${s['NAMA SEKOLAHAN']}</h4>
+        <p><strong>NPSN:</strong> ${s.NPSN || '-'}</p>
         <p><strong>Jenjang:</strong> <span style="color:${colors[s.JENJANG]}">${s.JENJANG}</span></p>
+        <p><strong>Alamat:</strong> ${s.ALAMAT || '-'}</p>
         <p><strong>Jumlah Guru:</strong> ${s['JUMLAH GURU']} orang</p>
         <p><strong>Jumlah Siswa:</strong> ${s['JUMLAH SISWA']} siswa</p>
       </div>`);
+
     markerCluster.addLayer(m);
     markers.push({ marker: m, data: s });
     totalGuru += Number(s['JUMLAH GURU']) || 0;
@@ -173,22 +177,33 @@ searchInput.addEventListener('input', () => {
   const kw = searchInput.value.toLowerCase().trim();
   searchResult.innerHTML = '';
   if (!kw) return;
-  const found = markers.filter(({ data }) => data['NAMA SEKOLAHAN'].toLowerCase().includes(kw));
+
+  const found = markers.filter(({ data }) =>
+    data['NAMA SEKOLAHAN'].toLowerCase().includes(kw) ||
+    String(data.NPSN || '').toLowerCase().includes(kw)
+  );
+
   if (!found.length) {
     searchResult.innerHTML = '<p style="padding:12px;text-align:center;color:#6c757d">Tidak ada sekolah ditemukan</p>';
     return;
   }
+
   found.forEach(({ marker, data }) => {
     const btn = document.createElement('button');
     btn.className = 'search-item';
+
+    const name = data['NAMA SEKOLAHAN'].replace(new RegExp(`(${kw})`, 'gi'), '<mark>$1</mark>');
+    const npsn = String(data.NPSN || '').replace(new RegExp(`(${kw})`, 'gi'), '<mark>$1</mark>');
+
     btn.innerHTML = `
       <div style="display:flex;align-items:center">
         <span class="color-indicator" style="background:${colors[data.JENJANG]};margin-right:8px"></span>
         <div style="text-align:left">
-          <div>${data['NAMA SEKOLAHAN'].replace(new RegExp(`(${kw})`, 'gi'), '<mark>$1</mark>')}</div>
-          <small style="color:#6c757d">${data.JENJANG} • ${data['JUMLAH SISWA']} siswa</small>
+          <div>${name}</div>
+          <small style="color:#6c757d">NPSN: ${npsn} • ${data.JENJANG} • ${data['JUMLAH SISWA']} siswa</small>
         </div>
       </div>`;
+
     btn.onclick = () => {
       map.setView(marker.getLatLng(), 17);
       marker.openPopup();
@@ -204,6 +219,13 @@ searchInput.addEventListener('input', () => {
 const sidebar = document.getElementById('sidebar');
 const sidebarToggle = document.getElementById('sidebar-toggle');
 const isMobile = () => window.innerWidth <= 768;
+
+// ✅ Fungsi tombol Kembali
+const btnBack = document.getElementById('btn-back');
+btnBack.addEventListener('click', () => {
+  sidebar.classList.remove('mobile-open');
+});
+
 sidebarToggle.onclick = () => {
   isMobile() ? sidebar.classList.toggle('mobile-open') : sidebar.classList.toggle('collapsed');
 };
