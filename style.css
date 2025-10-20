@@ -193,6 +193,7 @@ header h2 i {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   font-size: 14px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  animation: fadeInUp 0.3s ease forwards;
 }
 
 .search-item:hover {
@@ -663,8 +664,4 @@ input:focus-visible {
     opacity: 1;
     transform: translateY(0);
   }
-}
-
-.search-item {
-  animation: fadeInUp 0.3s ease forwards;
 }
