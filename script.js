@@ -18,7 +18,7 @@ baseLayers["🌍 OpenStreetMap"].addTo(map);
 L.control.layers(baseLayers, null, { collapsed: false }).addTo(map);
 
 // ---------- Config ----------
-const colors = { TK:'#e74c3c', KB:'#c0392b', PAUD:'#8e44ad', SD:'#3498db', SMP:'#2980b9', PKBM:'#1abc9c', SPS:'#f39c12', TPA:'#27ae60' };
+const colors = { TK:'#f472b6', KB:'#a78bfa', PAUD:'#8e44ad', SD:'#e74c3c', SMP:'#0d47a1', PKBM:'#1abc9c', SPS:'#f39c12', TPA:'#27ae60' };
 let markers = [];
 let markerCluster;
 let activeFilters = new Set();
@@ -279,3 +279,4 @@ document.addEventListener('DOMContentLoaded',()=>{
   sidebarToggle.title='Tekan Ctrl+B untuk toggle sidebar';
   document.getElementById('clear-filters').title='Tekan Ctrl+R untuk hapus filter';
 });
+
